@@ -1,5 +1,5 @@
 # Crewify - React.js web app
-#### Developed by [Wes Bubeck](https://github.com/WTB20), [Denis Molloy](https://github.com/D-Molloy), [RJ Perry](https://github.com/RJPerry23d)
+#### Developed by [Denis Molloy](https://github.com/D-Molloy), [Wes Bubeck](https://github.com/WTB20), [RJ Perry](https://github.com/RJPerry23d)
 ### Overview
 
 The Crewify App will help businesses manage the jobs that are open for their clients. It will allow workers in the company to keep up with active jobs by logging into a consolidated app to get current and past jobs details. There is a main access page that will allow managers to create a new job, search for current or past jobs and allow you them to access all active jobs so they may maintain and complete that job. This app will replace the need to hand write job locations, and client's info on a piece of paper that may be damaged or lost.
