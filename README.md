@@ -20,13 +20,13 @@ HTML5 | CSS3 | Bootstrap | JavaScript | Node.js | NPM | Express | Axios | MongoD
 
 ## Preview
 #### Create Jobs
-(https://media.giphy.com/media/l4EpfJcOkuY71X32w/giphy.gif)
+![Create Jobs GIF](https://media.giphy.com/media/l4EpfJcOkuY71X32w/giphy.gif)
 
 #### Search Jobs
-(https://media.giphy.com/media/l4Ep6ZNgIgZojwX6M/giphy.gif)
+![Search Jobs GIF](https://media.giphy.com/media/l4Ep6ZNgIgZojwX6M/giphy.gif)
 
 #### Crew Portal
-(https://media.giphy.com/media/26Ff2QXXDxLW3eCru/giphy.gif)
+![Crew GIF](https://media.giphy.com/media/26Ff2QXXDxLW3eCru/giphy.gif)
 
 ## Getting Started on your local machine
 
